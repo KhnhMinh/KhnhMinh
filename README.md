@@ -38,7 +38,6 @@
 
 ### 🔹 Portfolio Website (2025)
 👉 **https://portfolio-le-khanh-minhs-projects.vercel.app/**  
-React + Vite + Tailwind + Animation
 
 ---
 
