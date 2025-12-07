@@ -1,55 +1,111 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7973123/254774235-79a3e5e7-4e2a-4e6a-8a9e-764820bdfa8c.png" alt="banner" width="350"/>
+  <img src="https://user-images.githubusercontent.com/7973123/254774235-79a3e5e7-4e2a-4e6a-8a9e-764820bdfa8c.png" width="320" alt="banner"/>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-cyan?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-cyan?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&width=500&lines=💫+Le+Khanh+Minh+💫;Chào+mừng+%F0%9F%91%8B;Fullstack+Developer+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=500&width=520&lines=💫+Le+Khanh+Minh+💫;Chào+mừng+%F0%9F%91%8B;Fullstack+Developer+💻;Yêu+UI%2FUX+và+Animation+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <b>Chào mừng bạn ghé thăm GitHub của mình!</b><br/>
-  <i>Đam mê lập trình 🎯 • Không ngừng học hỏi 🌱 • Yêu công nghệ mỗi ngày ✨</i>
+  <i>Fullstack Developer • Đam mê UI/UX • Không ngừng học hỏi mỗi ngày 🚀</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Full-stack Developer, ưu tiên sản phẩm chỉn chu và ổn định  
-- 🌟 Yêu thích UI/UX và animation hiện đại  
-- 📚 Luôn học hỏi & cập nhật công nghệ mới  
-- 🎨 Hứng thú với thiết kế và tối ưu trải nghiệm người dùng  
-
----
-
-## 🚀 Tech Stack & Tools
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,figma,linux,vscode" />
+  <img src="https://github-profile-trophy.vercel.app/?username=le-khanh-minh&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🛠️ Projects & Portfolio
+# 🧑‍💻 About Me
+
+- 🔭 Full-stack Developer (React • TypeScript • Node.js • Python • Django)  
+- 🎨 Yêu thích animation, thiết kế UI tinh tế và app mượt mà  
+- 🌱 Hiện đang học AI/ML để mở rộng kỹ năng  
+- 📚 Yêu thích chia sẻ, thích những dự án thực tế và open-source  
+
+---
+
+# 🚀 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Xem%20Portfolio-00c9a7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,python,django,git,github,linux,postgres,figma,postman,vscode" />
 </p>
-
-<p align="center"><i>Khám phá các sản phẩm và dự án mình đã thực hiện!</i></p>
 
 ---
 
-## 📬 Liên hệ
+# 📂 Dự án nổi bật
+
+<div align="center">
+
+### 🔹 **Portfolio Website (2025)**
+🔗 https://portfolio-le-khanh-minhs-projects.vercel.app/  
+Mô tả: Portfolio hiện đại, smooth animation, UI/UX đẹp, React + Vite + Tailwind.
+
+---
+
+### 🔹 **Các dự án khác**
+| Dự án | Công nghệ | Link |
+|-------|-----------|------|
+| Web App Django | Django • PostgreSQL | *Coming soon* |
+| Chatbot AI mini | Python | *Updating* |
+| Web UI clone | React • Tailwind | *Updating* |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+## 📈 Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=le-khanh-minh&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=le-khanh-minh&theme=tokyonight" height="160"/>
+</p>
+
+## 💡 Ngôn ngữ sử dụng nhiều nhất
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-khanh-minh&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+# 🐍 Snake Animation (Commit Timeline)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/le-khanh-minh/le-khanh-minh/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🗺️ Visitor Map
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/le-khanh-minh/count.svg" />
+</p>
+
+---
+
+# ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 📬 Liên hệ
 
 <p align="center">
   <a href="mailto:lekhanhminh.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -60,13 +116,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le-khanh-minh&show_icons=true&theme=tokyonight" alt="Github Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=le-khanh-minh&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=le-khanh-minh&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
-<p align="center"><i>💖 Cảm ơn bạn đã ghé thăm! Nếu thích, hãy để ⭐ cho repo này nhé!</i></p>
+<p align="center"><i>💖 Cảm ơn bạn đã ghé thăm! Đừng quên ⭐ repo này để ủng hộ nhé!</i></p>
