@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  Fullstack Developer • Yêu UI/UX • Đam mê Animation  
-</p>
-
 ---
 
 ## 🚀 Tech Stack
