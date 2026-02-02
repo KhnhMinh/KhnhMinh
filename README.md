@@ -17,15 +17,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Full-stack Developer  
-- 🎨 Đam mê giao diện, animation, UX và sản phẩm đẹp  
-- 🚀 Thích xây app nhanh – tối ưu – hiện đại  
-- 📚 Học thêm AI/ML dần dần  
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
