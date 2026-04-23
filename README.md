@@ -13,10 +13,10 @@
   <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:lekhanhminh.dev@gmail.com">
+  <a href="mailto:khnhminh.le@gmail.com">
     <img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/le-khanh-minh">
+  <a href="https://github.com/KhnhMinh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
