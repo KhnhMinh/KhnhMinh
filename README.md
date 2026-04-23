@@ -6,7 +6,7 @@
 <h1 align="center">Le Khanh Minh</h1>
 
 <p align="center">
-  <strong>Frontend Developer | Backend Explorer | Full-stack Learner</strong>
+  <strong>Fullstack Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -23,14 +23,14 @@
 
 ---
 
-## Xin chao!
+## Hello!
 
-Minh la **Le Khanh Minh**, mot developer dang tap trung xay dung cac san pham web gon gang, de dung va co trai nghiem nguoi dung tot.
+My name is **Le Khanh Minh**, a software engineer focused on building clean, user-friendly web products with great user experience.
 
-- Yeu thich phat trien giao dien voi **React**, **Vue**, **Vite** va **Tailwind CSS**
-- Dang mo rong ky nang backend voi **Node.js**, **Python**, **Django** va **FastAPI**
-- Quan tam den cach viet code sach, de bao tri va co the phat trien lau dai
-- Luon san sang hoc cong nghe moi thong qua cac du an thuc te
+- Passionate about UI development with **React**, **Vue**, **Vite**, and **Tailwind CSS**
+- Currently expanding backend skills with **Node.js**, **Python**, **Django**, and **FastAPI**
+- Interested in writing clean, maintainable, and scalable code
+- Always eager to learn new technologies through real-world projects
 
 ---
 
@@ -61,11 +61,11 @@ Minh la **Le Khanh Minh**, mot developer dang tap trung xay dung cac san pham we
 
 ---
 
-## Du an noi bat
+## Featured Projects
 
 ### Portfolio Website
 
-Website portfolio ca nhan de gioi thieu thong tin, ky nang va cac du an da thuc hien.
+A personal portfolio website showcasing information, skills, and completed projects.
 
 <p>
   <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/">
