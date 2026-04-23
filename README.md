@@ -69,7 +69,7 @@ A personal portfolio website showcasing information, skills, and completed proje
 
 <p>
   <a href="https://portfolio-le-khanh-minhs-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Xem_du_an-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" />
+    <img src="https://img.shields.io/badge/View_portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ A personal portfolio website showcasing information, skills, and completed proje
 
 <p align="center">
   <a href="mailto:lekhanhminh.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lekhanhminh.dev%40gmail.com-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-khnnhminh.le%40gmail.com-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/le-khanh-minh">
     <img src="https://img.shields.io/badge/LinkedIn-Le_Khanh_Minh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
