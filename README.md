@@ -16,7 +16,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,python,django,git,linux,postgres,figma" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,python,django,fastapi,git,linux,postgres" />
 </p>
 
 ---
@@ -25,20 +25,6 @@
 
 ### 🔹 Portfolio Website (2025)
 👉 **https://portfolio-le-khanh-minhs-projects.vercel.app/**  
-
----
-
-## 📊 GitHub Stats (Phiên bản ổn định)
-
-> ⚠ Stats từ dịch vụ ngoài thường bị block → mình dùng phiên bản **ổn định nhất**.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le-khanh-minh&show_icons=true&theme=tokyonight&cache_seconds=3600" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-khanh-minh&layout=compact&theme=tokyonight&cache_seconds=3600" height="150"/>
-</p>
 
 ---
 
